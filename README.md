@@ -91,4 +91,4 @@ Hrutuja Bhosale
 
 B.Tech CSE (AI)
 
-Data Analytics | SQL | Python | Power BI
+Data Analytics | SQL | Python | Excel | Power BI 
